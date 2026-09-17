@@ -8,7 +8,7 @@ Add the package with Wally:
 
 ```toml
 [dependencies]
-BasicState = "devex/basicstate@0.1.2"
+BasicState = "nrobloxs/basicstate@0.1.2"
 ```
 
 Then require it in your Roblox Lua code:
