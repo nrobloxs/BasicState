@@ -1,13 +1,8 @@
 --!nocheck
 
-local Root = script.Parent
-local Shared = Root:FindFirstChild("Shared") or Root:FindFirstChild("shared")
-
-assert(Shared, "BasicState package requires a Shared folder at the package root.")
-
-local Signal = require(Shared.Signal)
-local Types = require(Shared.Types)
-local Utility = require(Shared.Utility)
+local Signal = require(script.Signal)
+local Types = require(script.Types)
+local Utility = require(script.Utility)
 
 local DEFAULT_STATE = "Idle"
 

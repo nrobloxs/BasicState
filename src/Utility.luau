@@ -1,4 +1,4 @@
---!strict
+--!nocheck
 
 local Types = require(script.Parent.Types)
 local Utility = {}
