@@ -1,7 +1,7 @@
 [package]
 name = "nrobloxs/basicstate"
 description = "A lightweight Roblox state machine library"
-version = "0.1.1"
+version = "0.1.2"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 
