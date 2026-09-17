@@ -1,12 +1,6 @@
 {
   "name": "BasicState",
   "tree": {
-    "$className": "DataModel",
-    "ReplicatedStorage": {
-      "$className": "ReplicatedStorage",
-      "StateMachine": {
-        "$path": "src"
-      }
-    }
+    "$path": "src"
   }
 }
